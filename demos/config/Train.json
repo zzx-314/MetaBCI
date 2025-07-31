@@ -1,0 +1,15 @@
+{
+  "channels":11,
+  "fold": 2,
+  "context": 5,
+  "epoch": 20,
+  "batch_size": 256 ,
+  "optimizer": "adam",
+  "learn_rate": 0.0001,
+  "lr_decay": 0.0,
+  "GLalpha": 0.0001,
+  "lambda_GRL": 0.001,
+  "path_output": "D:\\sleep\\MetaBCI-master\\sleep504\\result",
+  "path_preprocessed_data": "D:\\sleep\\MetaBCI-master\\sleep504\\osa-preprocessed\\1.npz",
+  "path_feature": "D:\\sleep\\MetaBCI-master\\sleep504\\featurenet_output\\"
+}
