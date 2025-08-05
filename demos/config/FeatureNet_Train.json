@@ -1,0 +1,11 @@
+{
+  "GPU": "0",
+  "channels":11,
+  "fold": 2,
+  "epoch_f": 20,
+  "batch_size_f": 512,
+  "optimizer_f": "adam",
+  "learn_rate_f": 0.0002,
+  "path_preprocessed_data": "E:\\yanyi\\MetaBCI-master\\osa-preprocessed\\1.npz",
+  "path_feature": "E:\\yanyi\\MetaBCI-master\\featurenet_output\\"
+}

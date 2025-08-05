@@ -1,0 +1,15 @@
+{
+  "channels":11,
+  "fold": 2,
+  "context": 5,
+  "epoch": 20,
+  "batch_size": 256 ,
+  "optimizer": "adam",
+  "learn_rate": 0.0001,
+  "lr_decay": 0.0,
+  "GLalpha": 0.0001,
+  "lambda_GRL": 0.001,
+  "path_output": "E:\\yanyi\\MetaBCI-master\\result",
+  "path_preprocessed_data": "E:\\yanyi\\MetaBCI-master\\osa-preprocessed\\1.npz",
+  "path_feature": "E:\\yanyi\\MetaBCI-master\\featurenet_output\\"
+}

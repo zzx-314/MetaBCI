@@ -1,0 +1,7 @@
+{
+
+    "channels_to_use": ["F3_A2", "C3_A2", "F4_A1", "C4_A1", "O1_A2", "O2_A1", "X1", "X2", "X3", "LOC_A2","ROC_A1"],
+    "save_path": "E:\\yanyi\\MetaBCI-master\\osa-preprocessed",
+    "exclude_subjects_data": [],
+    "exclude_subjects_label": []
+}
